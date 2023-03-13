@@ -4483,7 +4483,7 @@ __metadata:
     request-ip: ^2.1.3
     resolve-cwd: ^3.0.0
     scrypt-kdf: ^2.0.1
-    sqlite3: ^5.0.2
+    sqlite3: ^5.1.5
     supertest: ^4.0.2
     ts-jest: ^25.5.1
     typescript: ^4.4.4
@@ -31956,9 +31956,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sqlite3@npm:^5.0.2":
-  version: 5.0.8
-  resolution: "sqlite3@npm:5.0.8"
+"sqlite3@npm:^5.1.5":
+  version: 5.1.5
+  resolution: "sqlite3@npm:5.1.5"
   dependencies:
     "@mapbox/node-pre-gyp": ^1.0.0
     node-addon-api: ^4.2.0
@@ -31972,7 +31972,7 @@ __metadata:
   peerDependenciesMeta:
     node-gyp:
       optional: true
-  checksum: 7ca429313b4702976630d70b8761137f7900fe923343c22f0d185ab0b1013e08fac023c5828abf2b13a813c36c0923745b2a1733ef00ec6b8a0e415e67177a70
+  checksum: 36dfd99b7b97c643606ac1e74813c0510f58e43b061674aad9ed0f0b986a27e27cbf51fe7c17ee34b2fea4172b9769309efea8c754a33e4cb77217ce55da75d0
   languageName: node
   linkType: hard
 
